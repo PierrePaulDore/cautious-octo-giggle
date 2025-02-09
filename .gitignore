@@ -1,3 +1,9 @@
 .DS_Store
 node_modules/
 auth.js
+dist/
+build/
+.env
+*.log
+*.swp
+*.tmp
